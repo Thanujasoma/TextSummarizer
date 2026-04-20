@@ -39,10 +39,10 @@
         <h2>Contributing</h2>
         <p>Contributions are welcome! For major changes, please open an issue first to discuss the proposed changes.</p>
         <h2>Support</h2>
-        <p>For support or inquiries, please contact <a href="mailto:sanashaheen2924@gmail.com">sanashaheen2924@gmail.com</a>.</p>
+        <p>For support or inquiries, please contact <a href="mailto:thanujasoma2004@gmail.com">thanujasoma2004@gmail.com</a>.</p>
     </div>
     <footer>
-        &copy; 2024 Sana shaheen
+        &copy; 2026 S Thanuja
     </footer>
 </body>
 </html>
